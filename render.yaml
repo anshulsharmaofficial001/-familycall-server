@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: familycall-server
+    env: node
+    buildCommand: npm install
+    startCommand: node index.js
+    healthCheckPath: /api/users
+    envVars:
+      - key: PORT
+        value: 3000

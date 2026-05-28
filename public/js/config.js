@@ -1,0 +1,5 @@
+window.FAMILYCALL_API_KEY = 'YOUR_API_KEY';
+window.FAMILYCALL_AUTH_DOMAIN = 'YOUR_PROJECT.firebaseapp.com';
+window.FAMILYCALL_DB_URL = 'https://YOUR_PROJECT-default-rtdb.firebaseio.com';
+window.FAMILYCALL_PROJECT_ID = 'YOUR_PROJECT_ID';
+window.VAPID_PUBLIC_KEY = 'YOUR_VAPID_PUBLIC_KEY';
